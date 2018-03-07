@@ -24,6 +24,7 @@ body {
 
 .reveal h1 {
   text-transform: none;
+  color:#fff !important;
 }
 
 .reveal h2 {
@@ -56,7 +57,7 @@ body {
 
 .slides h1, h2, h3, p, footer {
 	background: rgba(255, 255, 255, 0.25);
-  color:#727272;
+  /*color:#727272;*/
 	padding: 10px !important;
 }
 
